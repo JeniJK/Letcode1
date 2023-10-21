@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-21T09:56:53 IST" name="Suite" finished-at="2023-10-21T09:57:21 IST" duration-ms="27437">
+    <groups>
+      <group name="Master">
+        <method signature="Tc_001_Reg.testaccountReg()[pri:0, instance:Testcase.Tc_001_Reg@4550bb58]" name="testaccountReg" class="Testcase.Tc_001_Reg"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="Tc_001_Reg.testaccountReg()[pri:0, instance:Testcase.Tc_001_Reg@4550bb58]" name="testaccountReg" class="Testcase.Tc_001_Reg"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2023-10-21T09:56:53 IST" name="Test" finished-at="2023-10-21T09:57:21 IST" duration-ms="27437">
+      <class name="Testcase.Tc_001_Reg">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Testcase.Tc_001_Reg@4550bb58]" started-at="2023-10-21T09:56:54 IST" name="setup" finished-at="2023-10-21T09:57:10 IST" duration-ms="16071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testaccountReg()[pri:0, instance:Testcase.Tc_001_Reg@4550bb58]" started-at="2023-10-21T09:57:10 IST" name="testaccountReg" finished-at="2023-10-21T09:57:21 IST" duration-ms="10531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testaccountReg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcase.Tc_001_Reg@4550bb58]" started-at="2023-10-21T09:57:21 IST" name="tearDown" finished-at="2023-10-21T09:57:21 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcase.Tc_001_Reg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
