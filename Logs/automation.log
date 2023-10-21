@@ -116,3 +116,10 @@
 09:57:10.934 [main] INFO  Testcase.Tc_001_Reg - **** Continue to Click login button ****
 09:57:21.077 [main] INFO  Testcase.Tc_001_Reg - **** Finally Logout the account ****
 09:57:21.077 [main] INFO  Testcase.Tc_001_Reg - **** Finished Tc_001_Reg ****
+01:25:38.069 [main] INFO  Testcase.Tc_001_Reg - **** Starting Tc_001_Reg ****
+01:25:38.267 [main] INFO  Testcase.Tc_001_Reg - **** Clicked on Login button ****
+01:25:38.505 [main] INFO  Testcase.Tc_001_Reg - **** Entered Email ****
+01:25:38.653 [main] INFO  Testcase.Tc_001_Reg - ****  Entered Password ****
+01:25:38.766 [main] INFO  Testcase.Tc_001_Reg - **** Continue to Click login button ****
+01:25:48.886 [main] INFO  Testcase.Tc_001_Reg - **** Finally Logout the account ****
+01:25:48.886 [main] INFO  Testcase.Tc_001_Reg - **** Finished Tc_001_Reg ****
